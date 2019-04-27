@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "image": "/images/black-mouth-cur.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "/images/lab.jpg",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "/images/Pom.jpg",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "/images/pug.jpg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "/images/husky.jpg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "/images/sheepdog.jpg",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "/images/box.jpg",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "/images/baby.jpg",
+      "clicked": false
+    }
+  ]

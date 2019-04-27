@@ -1,0 +1,16 @@
+    
+.click-item {
+    background-size: cover;
+    background-position: center;
+    height: 200px;
+    width: 200px;
+    margin: 10px 25px;
+    border: 10px solid rgb(241, 241, 241);
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .click-item:hover {
+    transform: scale(1.05);
+    transition: 0.1s;
+  }
